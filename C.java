@@ -1,6 +1,10 @@
-public interface C {
+public class C extends null {
 
     String kk();
 
     void bb();
+
+    public byte oo() {
+        return 4;
+    }
 }

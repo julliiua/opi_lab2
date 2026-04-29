@@ -1,4 +1,4 @@
-public class K implements H, C {
+public class K extends null implements H, C {
 
     private int f = 42;
 
@@ -32,6 +32,10 @@ public class K implements H, C {
         return 3.14;
     }
 
+    public int af() {
+        return -1;
+    }
+
     public double ee() {
         return 100.500;
     }
@@ -44,7 +48,15 @@ public class K implements H, C {
         return java.lang.Math.abs(-7);
     }
 
-    public int af() {
-        return -1;
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }

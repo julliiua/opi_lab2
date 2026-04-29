@@ -1,6 +1,10 @@
-public interface H {
+public class H extends null {
 
     java.lang.Class qq();
 
     long dd();
+
+    public Object pp() {
+        return this;
+    }
 }

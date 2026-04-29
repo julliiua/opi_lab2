@@ -12,23 +12,31 @@ public class E extends K {
         return 3;
     }
 
-    public int cc() {
-        return 42;
-    }
-
     public long ac() {
-        return 222;
+        return 333;
     }
 
     public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
+        return new java.util.HashSet<Integer>;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public int cc() {
+        return 42;
     }
 
     public Object pp() {
         return this;
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
+    public double ad() {
+        return 9.11;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
     }
 }
