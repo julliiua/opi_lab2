@@ -35,4 +35,8 @@ public class K implements H, C {
     public double ee() {
         return 100.500;
     }
+
+    public void ab() {
+        System.out.println("\n");
+    }
 }
