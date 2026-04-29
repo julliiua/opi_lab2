@@ -8,3 +8,4 @@ public class C extends null {
         return 4;
     }
 }
+//fetch test
