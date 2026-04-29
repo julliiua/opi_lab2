@@ -27,20 +27,4 @@ public class K implements H, C {
     public void bb() {
         System.out.println(getClass().getName());
     }
-
-    public float ff() {
-        return 3.14;
-    }
-
-    public double ee() {
-        return 100.500;
-    }
-
-    public void ab() {
-        System.out.println("\n");
-    }
-
-    public int ae() {
-        return java.lang.Math.abs(-7);
-    }
 }

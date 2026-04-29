@@ -11,20 +11,4 @@ public class E extends K {
     public byte oo() {
         return 3;
     }
-
-    public int cc() {
-        return 42;
-    }
-
-    public long ac() {
-        return 222;
-    }
-
-    public java.util.Set<Integer> ll() {
-        return new java.util.LinkedList<Integer>;
-    }
-
-    public Object pp() {
-        return this;
-    }
 }
