@@ -27,4 +27,8 @@ public class E extends K {
     public Object pp() {
         return this;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
