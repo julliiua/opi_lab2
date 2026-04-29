@@ -27,4 +27,8 @@ public class K implements H, C {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
