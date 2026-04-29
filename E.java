@@ -19,4 +19,8 @@ public class E extends K {
     public long ac() {
         return 222;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }
