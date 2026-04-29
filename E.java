@@ -31,4 +31,8 @@ public class E extends K {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }

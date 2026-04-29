@@ -47,4 +47,8 @@ public class K extends null implements H, C {
     public int af() {
         return -1;
     }
+
+    public long ac() {
+        return 333;
+    }
 }
