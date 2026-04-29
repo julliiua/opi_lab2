@@ -11,4 +11,8 @@ public class E extends K {
     public byte oo() {
         return 3;
     }
+
+    public int cc() {
+        return 42;
+    }
 }
