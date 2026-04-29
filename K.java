@@ -39,4 +39,8 @@ public class K implements H, C {
     public void ab() {
         System.out.println("\n");
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }
