@@ -1,4 +1,4 @@
-public class K implements H, C {
+public class K extends null implements H, C {
 
     private int f = 42;
 
@@ -38,5 +38,13 @@ public class K implements H, C {
 
     public void ab() {
         System.out.println("\n");
+    }
+
+    public byte oo() {
+        return 2;
+    }
+
+    public int af() {
+        return -1;
     }
 }
