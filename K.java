@@ -31,4 +31,8 @@ public class K implements H, C {
     public float ff() {
         return 3.14;
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }

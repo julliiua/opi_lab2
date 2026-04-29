@@ -15,4 +15,8 @@ public class E extends K {
     public int cc() {
         return 42;
     }
+
+    public long ac() {
+        return 222;
+    }
 }
